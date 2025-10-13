@@ -1,4 +1,4 @@
-# soulmapp-legal
+# SoulMapp
 
 This repository contains the legal documents and references for the SoulMapp mobile application.
 
