@@ -4,7 +4,7 @@
 
 <br clear="left"/>
 
-A personal mindfullness and wellbeing calendar and journaling app with daily tracking features.
+A personal mindfulness and wellbeing calendar app for daily journaling and event tracking.
 
 - Terms of Service: [Terms of Service](./terms.html)
 - Privacy Policy: [Privacy Policy](./privacy.html)
